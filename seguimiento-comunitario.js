@@ -1,5 +1,5 @@
 let semana = 1
-const semanasDeSeguimiento = 6
+const semanasDeSeguimiento = 9
 let propuestasAtendidas = 0
 
 console.log("Seguimiento comunitario semanal")
